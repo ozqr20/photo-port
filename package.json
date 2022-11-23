@@ -4,7 +4,8 @@
   "homepage": "http://ozqr20.github.io/photo-port",
   "private": true,
   "dependencies": {
-    "@testing-library/react": "^11.2.7",
+    "@testing-library/jest-dom": "^5.16.4",
+    "@testing-library/react": "^11.1.0",
     "@testing-library/user-event": "^13.5.0",
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
